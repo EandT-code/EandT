@@ -2,5 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<"H";
+    int x,y;
+    cin>>x>>y;
+    cout<<x*y;
 }
